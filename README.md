@@ -1,3 +1,3 @@
 # testing-repository-gh
 
-testowy tekst
+Tekst testowy do pierwszego commita
